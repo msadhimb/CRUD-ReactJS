@@ -1,0 +1,10 @@
+.container-fluid{
+    background-color: #D8D9CF;
+    height: 100%;
+}
+
+@media (min-width: 768px) { 
+    .container-fluid{
+        height: 100vh;
+    }
+ }
